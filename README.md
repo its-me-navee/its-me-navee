@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 -->
  
 - 🔭 I’m interested in jumping in and trying out some coding.
-- 🌱 I’m currently expanding my knowledge of Blockchain and Machine Learning.
-- 👯 I’m looking to collaborate on any RL or Blockchain project.
 - 📫 How to reach me [Contact Info](https://its-me-navee.github.io/#contact)
 
 <table style="width:100%">
