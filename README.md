@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=its-me-navee&show_icons=true&hide_border=true&hide=issues&theme=shadow_green" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=its-me-navee&show_icons=true&hide_border=true&hide=issues&theme=vue-dark" /></th>
    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-me-navee&layout=compact&langs_count=8" /></th> 
    
   </tr>
