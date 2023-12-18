@@ -2,6 +2,8 @@
 Glad you'r here!<br>
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sandeepb20) <br> -->
 ![](https://komarev.com/ghpvc/?username=its-me-navee&label=PROFILE+VIEWS&color=blue&style=plastic)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=its-me-navee&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **sandeepb20/sandeepb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +26,7 @@ Here are some ideas to get you started:
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=its-me-navee&show_icons=true&hide_border=true&hide=issues&theme=vue-dark" /></th>
    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-me-navee&layout=compact&langs_count=8" /></th> 
+   
    
   </tr>
 </table>
